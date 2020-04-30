@@ -42,7 +42,7 @@ The `addressBook` keeps the known multiaddrs of a peer. The multiaddrs of each p
 
 `Map<string, Address>`
 
-A `peerId.toString()` identifier mapping to a `Address` object, which should have the following structure:
+A `peerId.toString()` identifier mapping to an `Address` object, which should have the following structure:
 
 ```js
 {
