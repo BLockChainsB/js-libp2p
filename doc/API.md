@@ -814,8 +814,6 @@ Add known `protocols` of a given peer.
 peerStore.protoBook.add(peerId, protocols)
 ```
 
-* [`peerStore.keyBook.get`](#peerstorekeybookget)
-* [`peerStore.keyBook.set`](#peerstorekeybookset)
 
 ### peerStore.keyBook.delete
 
